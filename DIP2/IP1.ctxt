@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=IP1
+comment1.params=
+comment1.target=IP1()
+comment2.params=
+comment2.target=java.awt.Image\ getImage()
+comment3.params=
+comment3.target=int[]\ getImageHistogram()
+comment4.params=
+comment4.target=java.awt.Image\ getImage2()
+comment5.params=
+comment5.target=java.awt.Image\ getImage3()
+comment6.params=
+comment6.target=java.awt.Image\ getImage4()
+comment7.params=
+comment7.target=int[]\ getImageHistogram2()
+numComments=8
